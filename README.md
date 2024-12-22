@@ -58,6 +58,7 @@ A estrutura do projeto é a seguinte:
 Trabalho-em-dupla-do-curso-iOS/
 
 ├── Atividade da trilha iOS.swift
+
 └── README.md
 
 🤝 Contribuição
