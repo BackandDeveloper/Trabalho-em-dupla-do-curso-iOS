@@ -1,6 +1,6 @@
 # 📚 TextTool - Ferramenta de Manipulação de Texto
 
-Bem-vindo ao repositório do TextTool! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando Swift para criar uma ferramenta de linha de comando que realiza várias operações em arquivos de texto. 📝
+Bem-vindo ao repositório do TextTool! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando Swift para criar uma ferramenta de linha de comando que realiza várias operações em arquivos de texto! 📝
 
 ## 📋 Índice
 
