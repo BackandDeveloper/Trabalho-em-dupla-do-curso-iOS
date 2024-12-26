@@ -12,7 +12,7 @@ Bem-vindo ao repositório do TextTool! Este projeto foi desenvolvido como parte 
 - [Licença](#licença)
 - [Contato](#contato)
 
-## 🌟 Sobre o Projeto
+## 🌟 Sobre o Projeto:
 
 O TextTool é uma ferramenta de linha de comando que permite contar palavras, buscar palavras específicas e substituir 
 palavras em arquivos de texto. Este projeto foi desenvolvido para praticar habilidades em Swift e manipulação de arquivos.
