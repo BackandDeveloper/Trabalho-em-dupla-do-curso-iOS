@@ -26,51 +26,72 @@ palavras em arquivos de texto. Este projeto foi desenvolvido para praticar habil
 Para executar o TextTool localmente, siga estas etapas:
 
 1. **Clone o repositório:**
-   ```bash
+   
+    ```bash
    git clone https://github.com/BackandDeveloper/Trabalho-em-dupla-do-curso-iOS.git
-Navegue até o diretório do projeto:
+    
+2. Navegue até o diretório do projeto:
 
-bash
+```bash
 cd Trabalho-em-dupla-do-curso-iOS
 Compile o projeto:
+   ```
 
-bash
+```bash
 swiftc Atividade\ da\ trilha\ iOS.swift -o TextTool
 Execute o TextTool com o comando desejado:
 
-bash
-./TextTool <command> <file> [arguments]
+ ```
+
+```bash
+
+l <command> <file> [arguments]
 count: Conta o número de palavras no arquivo
 
-bash
+```
+
+ ```bash
+
 ./TextTool count <file>
 search: Busca uma palavra específica no arquivo
 
-bash
+```
+  ```bash
+
 ./TextTool search <file> <word>
 replace: Substitui uma palavra específica no arquivo
 
-bash
+```
+
+  ```bash
+
 ./TextTool replace <file> <target> <replacement>
-📂 Estrutura do Projeto
+
+ ```
+
+## 📂| Estrutura do Projeto
+
 A estrutura do projeto é a seguinte:
+
+ ```
 
 Trabalho-em-dupla-do-curso-iOS/
 
 ├── Atividade da trilha iOS.swift
-
 └── README.md
 
-🤝 Contribuição
+ ```
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 🤝| Contribuição
 
-📄 Licença
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se de me mandar um e-mail me informando! 
+
+## 📄| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-📞 Contato
+## 📞| Contato
 
 Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, entre em contato:
 
-Email: [henrique.pedro62@aluno.ifce.edu]
+Email: henrique.pedro62@aluno.ifce.edu
 
